@@ -3,8 +3,8 @@
 -export([start/0]).
 
 start() ->
-  Array1 = [1,2,3],
-  Array2 = lists:reverse(Array1),
+  List1 = [1,2,3],
+  List2 = lists:reverse(List1),
 
-  io:format("~w~n", [Array2]).
+  io:format("~w~n", [List2]).
 

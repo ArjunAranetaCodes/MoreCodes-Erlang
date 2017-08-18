@@ -3,8 +3,8 @@
 -export([start/0]).
 
 start() ->
-  Array1 = [1,2,3],
-  Array2 = [1,2,3],
-  NewArray = Array1 ++ Array2,
-  io:format("~w~n", [NewArray]).
+  List1 = [1,2,3],
+  List2 = [1,2,3],
+  NewList = List1 ++ List2,
+  io:format("~w~n", [NewList]).
 

@@ -3,7 +3,7 @@
 -export([start/0]).
 
 start() ->
-  ArrNumbers = [1,2,3],
-  io:format("~w~n", [hd(ArrNumbers)]),
-  io:format("~w~n", [lists:last(ArrNumbers)]).
+  ListNumbers = [1,2,3],
+  io:format("~w~n", [hd(ListNumbers)]),
+  io:format("~w~n", [lists:last(ListNumbers)]).
 

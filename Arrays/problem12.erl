@@ -3,10 +3,10 @@
 -export([start/0]).
 
 start() ->
-  Array1 = [1,2,3],
-  Array2 = [1,2,3],
+  List1 = [1,2,3],
+  List2 = [1,2,3],
   if
-   Array1 == Array2 ->
+   List1 == List2 ->
     io:fwrite("Equal Arrays");
    true ->
     io:fwrite("Not Equal")

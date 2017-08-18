@@ -3,7 +3,7 @@
 -export([start/0]).
 
 start() ->
-  Array1 = [1,3,2,4],
-  Array2 = lists:sort(Array1),
-  io:format("~w~n", [Array2]).
+  List1 = [1,3,2,4],
+  List2 = lists:sort(List1),
+  io:format("~w~n", [List2]).
 

@@ -4,15 +4,15 @@
 -import(string,[len/1]).
 -export([countNum/4,start/0]).
 
-countNum(ArrNumbers, Num, N, Occur) when N > 0 ->
- X = lists:nth(N, ArrNumbers),
+countNum(ListNumbers, Num, N, Occur) when N > 0 ->
+ X = lists:nth(N, ListNumbers),
  if
   Num == X ->
-   countNum(ArrNumbers, Num, N-1, Occur+1);
+   countNum(ListNumbers, Num, N-1, Occur+1);
   true ->
-   countNum(ArrNumbers, Num, N-1, Occur+0)
+   countNum(ListNumbers, Num, N-1, Occur+0)
  end;
-countNum(ArrNumbers, Num, 0, Occur)->
+countNum(ListNumbers, Num, 0, Occur)->
  if
   Occur > 0 ->
    io:format("Contains 2");
@@ -22,8 +22,8 @@ countNum(ArrNumbers, Num, 0, Occur)->
  1.
 
 start() ->
- ArrNumbers = [1,2,3],
+ ListNumbers = [1,2,3],
  Num = 2,
- Len1 = length(ArrNumbers),
- countNum(ArrNumbers, Num, Len1, 0).
+ Len1 = length(ListNumbers),
+ countNum(ListNumbers, Num, Len1, 0).
 

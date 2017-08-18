@@ -3,8 +3,8 @@
 -export([start/0]).
 
 start() ->
-  ArrNumbers = [1,2,3],
-  IsMember = lists:member(2,ArrNumbers),
+  ListNumbers = [1,2,3],
+  IsMember = lists:member(2,ListNumbers),
   if
    IsMember == true ->
     io:fwrite("Contains 2");

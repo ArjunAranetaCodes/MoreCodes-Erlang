@@ -3,6 +3,6 @@
 -export([start/0]).
 
 start() ->
-  ArrNumbers = [1,2,3],
-  io:format("Sum is ~w~n", [lists:sum(ArrNumbers)]).
+  ListNumbers = [1,2,3],
+  io:format("Sum is ~w~n", [lists:sum(ListNumbers)]).
 
