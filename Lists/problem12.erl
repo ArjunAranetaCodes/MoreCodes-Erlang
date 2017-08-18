@@ -7,7 +7,7 @@ start() ->
   List2 = [1,2,3],
   if
    List1 == List2 ->
-    io:fwrite("Equal Arrays");
+    io:fwrite("Equal Lists");
    true ->
     io:fwrite("Not Equal")
   end.
