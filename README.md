@@ -25,7 +25,7 @@ Computer Programming Problems and Solutions with the Erlang Language
 10. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Erlang/blob/master/Basics10.erl" target="_blank">Array/List</a>
 
 - - - -
-### [Erlang Easy Programming Problems](../Easy%20Problems/) <- Click to go to Easy Problems
+### [Erlang Easy Programming Problems](Easy%20Problems/) <- Click to go to Easy Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Erlang/blob/master/Easy%20Problems/problem1.erl" target="_blank">Write a program that accepts two numbers and find the sum.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Erlang/blob/master/Easy%20Problems/problem2.erl" target="_blank">Write a program that accepts two numbers and perform all arithmetic operations.</a>
@@ -49,7 +49,7 @@ Computer Programming Problems and Solutions with the Erlang Language
 20. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Erlang/blob/master/Easy%20Problems/problem20.erl" target="_blank">Write a program that checks if a string is a palindrome.</a>
 
 - - - -
-### [Erlang Loops Programming Problems](../Loops/) <- Click to go to Loop Problems
+### [Erlang Loops Programming Problems](Loops/) <- Click to go to Loop Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Erlang/blob/master/Loops/problem1.erl" target="_blank">Write a program that prints the numbers from 1 to 50. Output "Fizz" for multiples of 3, output "Buzz" for multiples of 5, and bot "FizzBuzz" for multiples of both 3 and 5.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Erlang/blob/master/Loops/problem2.erl" target="_blank">Write a program that outputs 5 random integers.</a>
@@ -73,7 +73,7 @@ Computer Programming Problems and Solutions with the Erlang Language
 20. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Erlang/blob/master/Loops/problem20.erl" target="_blank">(Recursion) Write a program that outputs the sum of numbers from 1 to n.</a>
 
 - - - -
-### [Erlang List Programming Problems](../Lists/) <- Click to go to List Problems
+### [Erlang List Programming Problems](Lists/) <- Click to go to List Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Erlang/blob/master/Lists/problem1.erl" target="_blank">Write a program that outputs the length of array.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Erlang/blob/master/Lists/problem2.erl" target="_blank">Write a program that gets the index of an element in an array.</a>
