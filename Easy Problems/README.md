@@ -33,3 +33,10 @@ Join Us on Youtube! <br/>
 18. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Erlang/blob/master/Easy%20Problems/problem18.erl" target="_blank">Write a program that outputs the frequency of a letter in a string.</a>
 19. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Erlang/blob/master/Easy%20Problems/problem19.erl" target="_blank">Write a program that counts the total number of vowels in a string.</a>
 20. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Erlang/blob/master/Easy%20Problems/problem20.erl" target="_blank">Write a program that checks if a string is a palindrome.</a>
+
+#
+
+<p align="center">
+Check out More on our website! <br/>
+<i><u>http://more-codes.com/</u></i>
+</p>
